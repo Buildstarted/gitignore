@@ -60,6 +60,3 @@ Misc*
 NugetServerPublish*
 Nuget.Server*
 nuget*/
-
-# Python
-/src/Tools/Templater/__pycache__
