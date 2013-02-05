@@ -29,10 +29,6 @@ obj/
 [Dd]ebug*/
 [Rr]elease*/
 Ankh.NoLoad
-*.ncrunchproject
-
-# Generated files
-
 
 #Tooling
 _ReSharper*/
@@ -40,7 +36,10 @@ _ReSharper*/
 [Tt]est[Rr]esult*
 *.dotCover
 *.ncrunchsolution
+*.ncrunchproject
 *.crunchsolution.cache
+_NCrunch*/
+ncrunch*
 
 #Project files
 [Bb]uild/
